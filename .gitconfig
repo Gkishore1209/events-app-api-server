@@ -1,0 +1,7 @@
+[user]
+	email = garvit.saxena.1209@gmail.com
+	name = gkishore1209
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
